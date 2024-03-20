@@ -1,0 +1,13 @@
+#test{
+    font-family: 'arial';
+    color: hotpink;
+}
+body{
+    background: rgb(94, 94, 94);
+}
+#linkcolor{
+    color: darkblue;
+}
+#wiplinkcolor{
+    color: white;
+}
